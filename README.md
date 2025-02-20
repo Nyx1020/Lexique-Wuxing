@@ -31,7 +31,6 @@
 # Lexique-Wuxing - 五行科技术语词汇
 ```  
 
-
 ## 🌳 项目分支架构 | Architecture  
 main  
 ├── termes_bois/      # 木属性术语（生态/教育）  
@@ -50,6 +49,13 @@ main
 本项目将持续迭代，诚邀您：  
 - 提交新术语与五行标签建议  
 - 参与构建《五行-科技术语转化算法》  
-- 探索跨维度认知科学的未来  
+- 探索跨维度认知科学的未来
+
+  
+## 文化立场
+  - 五行框架仅作为认知透镜，非文化优劣判断依据
+  - 开放其他文化模型（如希腊四元素说）的平行版本
+    
+
 
 [![GitHub stars](https://img.shields.io/github/stars/yourname/Lexique-WuXing?style=social)](https://github.com/yourname/Lexique-WuXing)
